@@ -1,7 +1,7 @@
 package com.example.session16_exercise03.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.security.core.userdetails.User;
+import com.example.session16_exercise03.entity.User;
 
 import java.util.Optional;
 
